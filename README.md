@@ -16,7 +16,6 @@ To write a program to predict the profit of a city using the linear regression m
 6.Plot the graph respect to hours and scores using scatter plot function. 
 
 ## Program:
-
 ```
 Program to implement the linear regression using gradient descent.
 Developed by: PRAVEENA N
@@ -60,9 +59,11 @@ pre=scaler.inverse_transform(prediction)
 print(prediction)
 print(f"Predicted value: {pre}")
 ```
+
 ## Output:
-
-
+![image](https://github.com/Praveenanagaraji22/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119393514/9ba5799d-dc14-4138-8782-c1852e2af1df)
+![image](https://github.com/Praveenanagaraji22/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119393514/359c06ce-2980-4e32-accc-24e2d2beab28)
+![image](https://github.com/Praveenanagaraji22/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119393514/81e99f1d-2cbc-4885-b325-caf0f4a8a9b5)
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
