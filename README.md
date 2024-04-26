@@ -27,6 +27,7 @@ RegisterNumber: 212222040122
 import numpy as np
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
+
 def linear_regression(X1,y,learning_rate=0.1,num_iters=1000):
     X=np.c_[np.ones(len(X1)),X1]
     theta=np.zeros(X.shape[1]).reshape(-1,1)
@@ -64,7 +65,7 @@ print(f"Predicted value: {pre}")
 ```
 
 ## Output:
-![image](https://github.com/Praveenanagaraji22/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119393514/81e99f1d-2cbc-4885-b325-caf0f4a8a9b5)
+![309707787-81e99f1d-2cbc-4885-b325-caf0f4a8a9b5](https://github.com/Praveenanagaraji22/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119393514/e44b04f2-90b7-4b65-ad41-f5ea43dd84c7)
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
