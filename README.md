@@ -9,12 +9,17 @@ To write a program to predict the profit of a city using the linear regression m
 
 ## Algorithm
 ```
-1.Use the standard libraries in python for Gradient Design.
-2.Upload the dataset and check any null value using .isnull() function.
-3.Declare the default values for linear regression.
-4.Calculate the loss usinng Mean Square Error.
-5.Predict the value of y.
-6.Plot the graph respect to hours and scores using scatter plot function.
+STEP 1. Start the program.
+
+STEP 2. Import the required library and read the dataframe.
+
+STEP 3. Write a function computeCost to generate the cost function.
+
+STEP 4. Perform iterations og gradient steps with learning rate.
+
+STEP 5. Plot the Cost function using Gradient Descent and generate the required graph.
+
+STEP 6.End the Program.
 ```
 
 ## Program:
@@ -64,7 +69,32 @@ print(f"Predicted value: {pre}")
 ```
 
 ## Output:
-![image](https://github.com/Praveenanagaraji22/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119393514/24a49de2-07c5-4a3b-b1d7-21c83d451c18)
+## Profit Prediction Graph
+
+![image](https://github.com/Nethraa24/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121215786/32ae3100-ec28-4589-9798-67f5608e14ef)
+
+
+![image](https://github.com/Nethraa24/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121215786/18ea73ac-6ba8-44a3-aaa4-ee1786fafe91)
+
+## Compute Cost Value
+
+![image](https://github.com/Nethraa24/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121215786/865b66ee-b809-4225-9938-b5c637b8fe5a)
+
+## h(x) Value
+
+![image](https://github.com/Nethraa24/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121215786/ee1234a4-ac6f-4a73-932e-c6882b2ad40a)
+
+## Cost function using Gradient Descent Graph
+
+![image](https://github.com/Nethraa24/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121215786/1b398cc0-d18e-4b72-b18b-33f4f07f7874)
+
+## Profit for the Population 35,000
+
+![image](https://github.com/Nethraa24/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121215786/ebf46437-a362-459e-87bf-4af581b60cd2)
+
+## Profit for Population 70,000
+
+![image](https://github.com/Nethraa24/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121215786/d693817e-0e05-479d-993f-b8d05c28538c)
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
