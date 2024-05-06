@@ -69,32 +69,7 @@ print(f"Predicted value: {pre}")
 ```
 
 ## Output:
-## Profit Prediction Graph
-
-![image](https://github.com/Nethraa24/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121215786/32ae3100-ec28-4589-9798-67f5608e14ef)
-
-
-![image](https://github.com/Nethraa24/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121215786/18ea73ac-6ba8-44a3-aaa4-ee1786fafe91)
-
-## Compute Cost Value
-
-![image](https://github.com/Nethraa24/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121215786/865b66ee-b809-4225-9938-b5c637b8fe5a)
-
-## h(x) Value
-
-![image](https://github.com/Nethraa24/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121215786/ee1234a4-ac6f-4a73-932e-c6882b2ad40a)
-
-## Cost function using Gradient Descent Graph
-
-![image](https://github.com/Nethraa24/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121215786/1b398cc0-d18e-4b72-b18b-33f4f07f7874)
-
-## Profit for the Population 35,000
-
-![image](https://github.com/Nethraa24/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121215786/ebf46437-a362-459e-87bf-4af581b60cd2)
-
-## Profit for Population 70,000
-
-![image](https://github.com/Nethraa24/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121215786/d693817e-0e05-479d-993f-b8d05c28538c)
+![image](https://github.com/Praveenanagaraji22/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119393514/24a49de2-07c5-4a3b-b1d7-21c83d451c18)
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
